@@ -1,0 +1,24 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "applicazione progettato per gestire un elenco di attività (\"to-do\") da completare, permettendo di aggiungere, visualizzare, modificare, contrassegnare come completate o eliminare queste attività.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zak530/TODO-list.git"
+  },
+  "keywords": [],
+  "author": "Zakaria El Haiki",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zak530/TODO-list/issues"
+  },
+  "homepage": "https://github.com/zak530/TODO-list#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
